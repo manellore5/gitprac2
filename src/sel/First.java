@@ -10,6 +10,9 @@ public class First {
 		System.out.println(status);
 		System.out.println(status);
 
+		System.out.println(status);
+		System.out.println(status);
+		System.out.println(status);
 
 	}
 
