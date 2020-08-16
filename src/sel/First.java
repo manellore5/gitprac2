@@ -8,6 +8,8 @@ public class First {
 		System.out.println("test");
 		boolean status=false;
 		System.out.println(status);
+		System.out.println(status);
+
 
 	}
 
