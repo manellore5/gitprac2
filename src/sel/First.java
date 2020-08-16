@@ -9,7 +9,6 @@ public class First {
 		boolean status=false;
 		System.out.println(status);
 		System.out.println(status);
-		System.out.println(status);
 
 
 	}
